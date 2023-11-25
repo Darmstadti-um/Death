@@ -1,3 +1,6 @@
+//draft + part oft lect
+
+
 void acsel (byte stp, tsv) {
   for (byte i = 0; i < tsv; i = i + stp) {
   analogWrite (EN1, i);
