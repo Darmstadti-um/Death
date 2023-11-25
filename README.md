@@ -1,2 +1,4 @@
 # Death
-VOS code💀💀💀
+VOS & GUP & lect (!= FMS) code💀💀💀
+
+!= project repository
